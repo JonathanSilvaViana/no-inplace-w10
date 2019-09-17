@@ -1,0 +1,1 @@
+Torne o Windows 10 Pro ou Enterprise em Home Single Language descompactando e executando essa bat.
